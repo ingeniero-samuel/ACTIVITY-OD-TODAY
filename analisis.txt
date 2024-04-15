@@ -1,0 +1,14 @@
+ El problema consiste en crear un programa en Python que simule un juego de memoria. El programa permite al usuario crear un tablero de tamaño variable, mostrar el tablero durante un breve período de tiempo, ocultar una ficha del tablero y solicitar al usuario que intente recordar la ficha oculta.
+
+Entradas:
+
+El usuario proporciona el número de filas y columnas para el tablero.
+El usuario ingresa su respuesta para intentar recordar la ficha oculta.
+El usuario decide si desea seguir jugando o salir del juego.
+
+Salidas:
+
+Se muestra el tablero con letras y números aleatorios durante un tiempo determinado.
+Se informa al usuario si su respuesta es correcta o incorrecta.
+Se muestra la ficha oculta si el usuario no la recuerda correctamente.
+El programa solicita al usuario si desea jugar de nuevo.
